@@ -27,3 +27,7 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+.row-about{
+    border-bottom: 1px ridge;
+    margin:0px auto;
+}
