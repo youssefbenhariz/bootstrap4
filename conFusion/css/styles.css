@@ -39,3 +39,18 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+.input1{
+    width:350px;
+    height:50px;
+    
+}
+.input2{
+    width:350px;
+    height:50px;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
